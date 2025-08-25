@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Jangan index halaman sensitif (kalau ada)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+# Lokasi Sitemap
+Sitemap: https://www-ajaib-co-id-pusat-bantuan-ajaib.vercel.app/sitemap.xml
